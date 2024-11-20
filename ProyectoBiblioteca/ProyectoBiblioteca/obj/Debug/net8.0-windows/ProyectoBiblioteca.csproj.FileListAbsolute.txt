@@ -3,7 +3,6 @@ C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBibl
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.runtimeconfig.json
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.dll
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.pdb
-C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.Form1.resources
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.csproj.GenerateResource.cache
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.AssemblyInfoInputs.cache
@@ -14,3 +13,5 @@ C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBibl
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.pdb
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.genruntimeconfig.cache
 C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ref\ProyectoBiblioteca.dll
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.frmVentas.resources
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.sourcelink.json
