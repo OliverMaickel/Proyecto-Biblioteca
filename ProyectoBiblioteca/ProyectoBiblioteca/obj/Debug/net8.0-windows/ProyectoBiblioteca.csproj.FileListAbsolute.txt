@@ -1,0 +1,16 @@
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.exe
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.deps.json
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.runtimeconfig.json
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.dll
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\bin\Debug\net8.0-windows\ProyectoBiblioteca.pdb
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.Form1.resources
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.AssemblyInfo.cs
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.dll
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\refint\ProyectoBiblioteca.dll
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.pdb
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ProyectoBiblioteca.genruntimeconfig.cache
+C:\Users\Oliver\source\repos\Proyecto-Biblioteca\ProyectoBiblioteca\ProyectoBiblioteca\obj\Debug\net8.0-windows\ref\ProyectoBiblioteca.dll
